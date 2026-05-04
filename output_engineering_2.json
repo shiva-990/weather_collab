@@ -1,0 +1,55 @@
+{
+  "temperature_stats": {
+    "avg_temp": {
+      "Bangalore": 25.0,
+      "Chennai": 30.0,
+      "Mumbai": 32.0
+    },
+    "median_temp": {
+      "Bangalore": 25.0,
+      "Chennai": 30.0,
+      "Mumbai": 32.0
+    },
+    "std_temp": {
+      "Bangalore": 1.0,
+      "Chennai": 1.0,
+      "Mumbai": 1.0
+    }
+  },
+  "extremes": {
+    "Bangalore": {
+      "hottest_day": "2024-01-02",
+      "coldest_day": "2024-01-03"
+    },
+    "Chennai": {
+      "hottest_day": "2024-01-02",
+      "coldest_day": "2024-01-03"
+    },
+    "Mumbai": {
+      "hottest_day": "2024-01-02",
+      "coldest_day": "2024-01-03"
+    }
+  },
+  "anomalies": {
+    "Bangalore": [],
+    "Chennai": [],
+    "Mumbai": []
+  },
+  "rainfall_stats": {
+    "Bangalore": {
+      "rainfall_total": 4,
+      "rainfall_avg": 1.3333333333333333,
+      "humidity_avg": 63.333333333333336
+    },
+    "Chennai": {
+      "rainfall_total": 7,
+      "rainfall_avg": 2.3333333333333335,
+      "humidity_avg": 70.0
+    },
+    "Mumbai": {
+      "rainfall_total": 30,
+      "rainfall_avg": 10.0,
+      "humidity_avg": 80.0
+    }
+  }
+}

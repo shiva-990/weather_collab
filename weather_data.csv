@@ -1,0 +1,10 @@
+date,city,temperature_c,humidity,wind_speed_kmph,rainfall_mm
+2024-01-01,Chennai,30,65,12,0
+2024-01-02,Chennai,31,70,10,2
+2024-01-03,Chennai,29,75,14,5
+2024-01-01,Bangalore,25,60,8,1
+2024-01-02,Bangalore,26,62,9,0
+2024-01-03,Bangalore,24,68,11,3
+2024-01-01,Mumbai,32,80,15,10
+2024-01-02,Mumbai,33,78,13,8
+2024-01-03,Mumbai,31,82,16,12
